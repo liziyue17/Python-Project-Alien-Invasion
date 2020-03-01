@@ -1,7 +1,7 @@
 # Python Project: Alien Invasion
  A game named alien invasion, from Book "Python编程：从入门到实践"
 
-# 目前进度即安排
+# 目前进度及更新安排
 
 Chapter 12: 已经完成
 

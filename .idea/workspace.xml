@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="811485f7-043d-4d08-a749-4190eec47ac4" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YHctZ8MQyPfTe1s9tTe8Zn3nZw" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager">
+    <configuration name="alien_invasion" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="alien_invasion" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/alien_invasion.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.alien_invasion" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="811485f7-043d-4d08-a749-4190eec47ac4" name="Default Changelist" comment="" />
+      <created>1582603175279</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582603175279</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="839" height="171" key="GridCell.Tab.0.bottom" timestamp="1583070701577">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state width="839" height="171" key="GridCell.Tab.0.bottom/0.0.1368.872@0.0.1368.872" timestamp="1583070701577" />
+    <state width="839" height="171" key="GridCell.Tab.0.center" timestamp="1583070701577">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state width="839" height="171" key="GridCell.Tab.0.center/0.0.1368.872@0.0.1368.872" timestamp="1583070701577" />
+    <state width="839" height="171" key="GridCell.Tab.0.left" timestamp="1583070701577">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state width="839" height="171" key="GridCell.Tab.0.left/0.0.1368.872@0.0.1368.872" timestamp="1583070701577" />
+    <state width="839" height="171" key="GridCell.Tab.0.right" timestamp="1583070701577">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state width="839" height="171" key="GridCell.Tab.0.right/0.0.1368.872@0.0.1368.872" timestamp="1583070701577" />
+    <state x="189" y="142" width="990" height="706" key="SettingsEditor" timestamp="1582677970042">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state x="189" y="142" width="990" height="706" key="SettingsEditor/0.0.1368.872/-1280.0.1280.680@0.0.1368.872" timestamp="1582608351552" />
+    <state x="189" y="142" key="SettingsEditor/0.0.1368.872@0.0.1368.872" timestamp="1582677970042" />
+    <state x="381" y="312" key="com.intellij.ide.util.TipDialog" timestamp="1583069819306">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state x="381" y="312" key="com.intellij.ide.util.TipDialog/0.0.1368.872@0.0.1368.872" timestamp="1583069819306" />
+    <state x="700" y="188" width="672" height="678" key="search.everywhere.popup" timestamp="1582678875382">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state x="700" y="188" width="672" height="678" key="search.everywhere.popup/0.0.1368.872@0.0.1368.872" timestamp="1582678875382" />
+  </component>
+</project>

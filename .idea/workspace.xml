@@ -26,9 +26,10 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python.alien_invasion">
     <configuration name="alien_invasion" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="alien_invasion" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -50,9 +51,31 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="game_functions" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="alien_invasion" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/game_functions.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="Python.alien_invasion" />
+        <item itemvalue="Python.game_functions" />
       </list>
     </recent_temporary>
   </component>
@@ -82,38 +105,58 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="467" y="256" key="FileChooserDialogImpl" timestamp="1583074291027">
+    <state x="467" y="256" key="FileChooserDialogImpl" timestamp="1586661380762">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
-    <state x="467" y="256" key="FileChooserDialogImpl/0.0.1368.872@0.0.1368.872" timestamp="1583074291027" />
-    <state width="1262" height="171" key="GridCell.Tab.0.bottom" timestamp="1583077204044">
+    <state x="467" y="256" key="FileChooserDialogImpl/0.0.1368.872@0.0.1368.872" timestamp="1586661380762" />
+    <state width="873" height="277" key="GridCell.Tab.0.bottom" timestamp="1586673454031">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
-    <state width="1262" height="171" key="GridCell.Tab.0.bottom/0.0.1368.872@0.0.1368.872" timestamp="1583077204044" />
-    <state width="1262" height="171" key="GridCell.Tab.0.center" timestamp="1583077204044">
+    <state width="873" height="277" key="GridCell.Tab.0.bottom/0.0.1368.872@0.0.1368.872" timestamp="1586673454031" />
+    <state width="873" height="277" key="GridCell.Tab.0.center" timestamp="1586673454030">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
-    <state width="1262" height="171" key="GridCell.Tab.0.center/0.0.1368.872@0.0.1368.872" timestamp="1583077204044" />
-    <state width="1262" height="171" key="GridCell.Tab.0.left" timestamp="1583077204044">
+    <state width="873" height="277" key="GridCell.Tab.0.center/0.0.1368.872@0.0.1368.872" timestamp="1586673454030" />
+    <state width="873" height="277" key="GridCell.Tab.0.left" timestamp="1586673454030">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
-    <state width="1262" height="171" key="GridCell.Tab.0.left/0.0.1368.872@0.0.1368.872" timestamp="1583077204044" />
-    <state width="1262" height="171" key="GridCell.Tab.0.right" timestamp="1583077204044">
+    <state width="873" height="277" key="GridCell.Tab.0.left/0.0.1368.872@0.0.1368.872" timestamp="1586673454030" />
+    <state width="873" height="277" key="GridCell.Tab.0.right" timestamp="1586673454031">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
-    <state width="1262" height="171" key="GridCell.Tab.0.right/0.0.1368.872@0.0.1368.872" timestamp="1583077204044" />
-    <state x="189" y="142" width="990" height="706" key="SettingsEditor" timestamp="1583074302302">
+    <state width="873" height="277" key="GridCell.Tab.0.right/0.0.1368.872@0.0.1368.872" timestamp="1586673454031" />
+    <state width="873" height="277" key="GridCell.Tab.1.bottom" timestamp="1586673454031">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state width="873" height="277" key="GridCell.Tab.1.bottom/0.0.1368.872@0.0.1368.872" timestamp="1586673454031" />
+    <state width="873" height="277" key="GridCell.Tab.1.center" timestamp="1586673454031">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state width="873" height="277" key="GridCell.Tab.1.center/0.0.1368.872@0.0.1368.872" timestamp="1586673454031" />
+    <state width="873" height="277" key="GridCell.Tab.1.left" timestamp="1586673454031">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state width="873" height="277" key="GridCell.Tab.1.left/0.0.1368.872@0.0.1368.872" timestamp="1586673454031" />
+    <state width="873" height="277" key="GridCell.Tab.1.right" timestamp="1586673454031">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state width="873" height="277" key="GridCell.Tab.1.right/0.0.1368.872@0.0.1368.872" timestamp="1586673454031" />
+    <state x="61" y="139" width="990" height="706" key="SettingsEditor" timestamp="1586661455244">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
     <state x="189" y="142" width="990" height="706" key="SettingsEditor/0.0.1368.872/-1280.0.1280.680@0.0.1368.872" timestamp="1582608351552" />
-    <state x="189" y="142" key="SettingsEditor/0.0.1368.872@0.0.1368.872" timestamp="1583074302302" />
-    <state x="381" y="312" key="com.intellij.ide.util.TipDialog" timestamp="1583074178129">
+    <state x="61" y="139" key="SettingsEditor/0.0.1368.872@0.0.1368.872" timestamp="1586661455244" />
+    <state x="381" y="312" key="com.intellij.ide.util.TipDialog" timestamp="1583231185234">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
-    <state x="381" y="312" key="com.intellij.ide.util.TipDialog/0.0.1368.872@0.0.1368.872" timestamp="1583074178129" />
-    <state x="700" y="188" width="672" height="678" key="search.everywhere.popup" timestamp="1583077024108">
+    <state x="381" y="312" key="com.intellij.ide.util.TipDialog/0.0.1368.872@0.0.1368.872" timestamp="1583231185234" />
+    <state x="369" y="354" width="667" height="283" key="org.intellij.images.editor.actions.BackgroundImageDialog" timestamp="1586661382646">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
-    <state x="700" y="188" width="672" height="678" key="search.everywhere.popup/0.0.1368.872@0.0.1368.872" timestamp="1583077024108" />
+    <state x="369" y="354" width="667" height="283" key="org.intellij.images.editor.actions.BackgroundImageDialog/0.0.1368.872@0.0.1368.872" timestamp="1586661382646" />
+    <state x="472" y="217" width="672" height="678" key="search.everywhere.popup" timestamp="1586669544361">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state x="472" y="217" width="672" height="678" key="search.everywhere.popup/0.0.1368.872@0.0.1368.872" timestamp="1586669544361" />
   </component>
 </project>
